@@ -14,7 +14,7 @@
 
 ### Character Setup and Animation
 
-* [Adventure Game Tutorial][3D-adventure]
+* [Adventure Game Tutorial][3D-adventure] - the first two segments are about moving the character.
 
 [3D-adventure]: https://assetstore.unity.com/packages/essentials/tutorial-projects/1-6-adventure-tutorial-the-player-76783
 
