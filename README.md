@@ -12,7 +12,8 @@
 
 Resources:
 
-* [Sprites](../Sprites)
+* [Sprites][]
+* [2D Extras][]
 
 ## 3D
 
@@ -27,9 +28,10 @@ Basically, what you're doing is finding an acceptable "stand in" and moving on -
 
 * [Adventure Game Tutorial][3D-adventure] - the first two segments are about moving the character.
 
+[2d-extras]: https://github.com/Unity-Technologies/2d-extras
 [3D-adventure]: https://assetstore.unity.com/packages/essentials/tutorial-projects/1-6-adventure-tutorial-the-player-76783
-
 [pc]: https://github.com/DouglasUrner/Unity-Examples-Player-Controllers
 [se]: https://github.com/DouglasUrner/Unity-Examples-Sound-Effects
+[sprites]: https://github.com/DouglasUrner/Sprites
 [ti]: https://github.com/DouglasUrner/Unity-Examples-2D-Text-Interaction
 [tm]: https://github.com/DouglasUrner/Unity-Examples-2D-Tilemap
