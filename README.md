@@ -10,6 +10,10 @@
 * [Text Interaction][ti] - for games with "Adventure like" text based interaction.
 * [Tilemap][tm] - creating 2D worlds using Unity's Tilemap.
 
+Resources:
+
+* [Sprites](../Sprites)
+
 ## 3D
 
 ### Character Setup and Animation
