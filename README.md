@@ -13,7 +13,7 @@
 Resources:
 
 * [Sprites][]
-* [2D Extras][]
+* [2D Extras][2d-extras]
 
 ## 3D
 
