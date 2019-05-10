@@ -13,7 +13,7 @@
 
 Resources:
 
-* [Sprites][]
+* [Sprites][] - A very simple sprite sheet for 2D prototypes.
 * [2D Extras][2d-extras]
 
 ## 3D
